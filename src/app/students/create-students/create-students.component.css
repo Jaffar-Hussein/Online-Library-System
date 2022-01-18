@@ -1,0 +1,31 @@
+.login {
+    min-height: 100vh;
+    background-color: #F2EDD7;
+  }
+  
+  .bg-image {
+    background-image: url('/assets/createaccount.JPG');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .login-heading {
+    font-weight: 300;
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+    background-color: #3A6351;
+  }
+  .btn-createAccount {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+    border-color: #3A6351;
+    color: #3A6351;
+  }
+  .spandesign{
+      float: right;
+  }
