@@ -4,11 +4,15 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SigninComponent } from './signin/signin.component';
+import { StudentsComponent } from './students/students.component';
+import { CreateStudentsComponent } from './students/create-students/create-students.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    SigninComponent
+    SigninComponent,
+    StudentsComponent,
+    CreateStudentsComponent
   ],
   imports: [
     BrowserModule,
